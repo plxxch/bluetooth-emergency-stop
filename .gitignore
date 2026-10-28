@@ -1,0 +1,30 @@
+# Code Composer Studio / TI-RTOS build output
+**/Debug/
+**/Release/
+**/FlashROM_Library/
+**/FlashROM_StackLibrary/
+**/configPkg/
+**/*.obj
+**/*.d
+**/*.map
+**/*.out
+**/*.hex
+**/*.aem3
+**/*.linkInfo.xml
+**/ccsObjs.opt
+**/*.xdchelp
+
+# Per-user CCS / Eclipse state
+**/.launches/
+**/.metadata/
+*.launch
+
+# Exported project backups
+**/*_initial
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+*~
